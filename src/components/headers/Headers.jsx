@@ -23,7 +23,7 @@ const Headers = () => {
             <a className="text-gray-700" href="about">
               ABOUT
             </a>
-            <a className="text-gray-700" href="#">
+            <a className="text-gray-700" href="contact">
               CONTACT
             </a>
           </nav>

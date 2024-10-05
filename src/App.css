@@ -1278,6 +1278,12 @@ video {
   }
 }
 
+.btn-contact{
+  height: 60px;
+  width: 200px;
+background-color: black;
+color: #fff
+}
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
